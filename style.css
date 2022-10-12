@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+div #center {
+    width: 100px;
+    height: 100px;
+    border: solid 3px black;
+    margin: auto ;
+    box-sizing: border-box;
+
+
+}
+
+div #second {
+    width: 250px;
+    height: 250px;
+    border: solid 3px black;
+    margin:  auto;
+    padding-block: 70px;
+    box-sizing: border-box;
+}
+
+div #thisishard {
+    width: 500px;
+    height: 500px;
+    border: solid 3px black;
+    margin: auto;
+    padding-block: 70px;
+    box-sizing: border-box;
+}
